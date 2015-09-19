@@ -1,0 +1,19 @@
+{
+  "name": "objectid-js",
+  "version": "1.0.2",
+  "description": "This is an implementation of ObjectId in pure JS.",
+  "main": "src/main/javascript/Objectid.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvasilkov/ObjectId.js.git"
+  },
+  "keywords": [
+    "ObjectId"
+  ],
+  "author": "Justin Dearing <zippy1981@gmail.com>",
+  "license": "GNU General Public License",
+  "bugs": {
+    "url": "https://github.com/mvasilkov/ObjectId.js/issues"
+  },
+  "homepage": "https://github.com/mvasilkov/ObjectId.js"
+}
