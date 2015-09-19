@@ -1,6 +1,6 @@
 {
   "name": "objectid-js",
-  "version": "1.0.2",
+  "version": "1.0.2patch1",
   "description": "This is an implementation of ObjectId in pure JS.",
   "main": "src/main/javascript/Objectid.js",
   "repository": {
